@@ -8,7 +8,7 @@ export default function Home() {
   return (
    <main>
 
-<Valentine>Hi</Valentine>
+<Valentine></Valentine>
    </main>
   );
 }
